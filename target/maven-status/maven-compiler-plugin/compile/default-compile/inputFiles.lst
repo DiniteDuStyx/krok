@@ -1,0 +1,17 @@
+C:\Users\Edyta\Desktop\java_krok_projekt\src\main\java\pk\shop\Product.java
+C:\Users\Edyta\Desktop\java_krok_projekt\src\main\java\pk\shop\CriteriaHasCategoryParent.java
+C:\Users\Edyta\Desktop\java_krok_projekt\src\main\java\pk\shop\ProductFactory.java
+C:\Users\Edyta\Desktop\java_krok_projekt\src\main\java\pk\shop\Main.java
+C:\Users\Edyta\Desktop\java_krok_projekt\src\main\java\pk\shop\SimilarProductsDiscountPolicy.java
+C:\Users\Edyta\Desktop\java_krok_projekt\src\main\java\pk\shop\CategoryDiscountPolicy.java
+C:\Users\Edyta\Desktop\java_krok_projekt\src\main\java\pk\shop\Criteria.java
+C:\Users\Edyta\Desktop\java_krok_projekt\src\main\java\pk\shop\NoDiscountPolicy.java
+C:\Users\Edyta\Desktop\java_krok_projekt\src\main\java\pk\shop\Basket.java
+C:\Users\Edyta\Desktop\java_krok_projekt\src\main\java\pk\shop\CriteriaOr.java
+C:\Users\Edyta\Desktop\java_krok_projekt\src\main\java\pk\shop\DiscountValueValidator.java
+C:\Users\Edyta\Desktop\java_krok_projekt\src\main\java\pk\shop\Category.java
+C:\Users\Edyta\Desktop\java_krok_projekt\src\main\java\pk\shop\GroupCategoryDiscountPolicy.java
+C:\Users\Edyta\Desktop\java_krok_projekt\src\main\java\pk\shop\DiscountPolicyFactory.java
+C:\Users\Edyta\Desktop\java_krok_projekt\src\main\java\pk\shop\CriteriaBelongsToCategory.java
+C:\Users\Edyta\Desktop\java_krok_projekt\src\main\java\pk\shop\DiscountPolicy.java
+C:\Users\Edyta\Desktop\java_krok_projekt\src\main\java\pk\shop\CriteriaIsInCategory.java
